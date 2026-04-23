@@ -1,5 +1,9 @@
 # Full-Stack Dockerized AWS App
 
+## 🔗 Live Demo
+You can view the live application here: 
+[http://docker-aws-LB-2140310355.ap-northeast-1.elb.amazonaws.com](http://docker-aws-LB-2140310355.ap-northeast-1.elb.amazonaws.com)
+
 This is a production-ready full-stack application consisting of a **React** frontend and a **Node.js/Express** backend, fully containerized using **Docker** for seamless deployment to **AWS**.
 
 ##  Tech Stack
@@ -14,14 +18,10 @@ This is a production-ready full-stack application consisting of a **React** fron
 
 ---
 
-## 🛠️ Local Development
+##  Local Development
 
 ### Prerequisites
 - Node.js (v20+)
 - Docker Desktop
 
-### Setup
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
-   cd YOUR_REPO_NAME
+
